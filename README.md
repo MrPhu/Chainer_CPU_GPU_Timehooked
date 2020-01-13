@@ -1,5 +1,6 @@
 # Chainer_CPU_GPU_Allocation
-This project is a homework of Parallel Computing and Deep Learning System course.
+This project is a homework of Parallel Computing and Deep Learning System course. Using VGG16 to clasify 8 defects on Chip Panel.
+The main purpose of the project is to measure the time execution of each layer by using TimeHooked (a function from Chainer platform).
 
 Requirements:
 + Chainer
