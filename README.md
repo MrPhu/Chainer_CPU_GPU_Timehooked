@@ -25,4 +25,4 @@ To run the inference code:
   
 Results:
 
-![The Graph shows the comparison btw running on GPU and CPU](link-to-image)
+![The Graph shows the comparison btw running on GPU and CPU](https://github.com/MrPhu/Chainer_CPU_GPU_Allocation/blob/master/results/comparison_result.PNG)
